@@ -3,6 +3,7 @@ import './App.css';
 import LearnAos from './Components/LearnAos';
 import LearnClear from './Components/LearnClear';
 import LearnCode from './Components/LearnCode';
+import LearnNew from './Components/LearnNew';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
    <LearnAos/>
       <LearnClear/>
       <LearnCode/>
+      <LearnNew/>
     </div>
   );
 }
