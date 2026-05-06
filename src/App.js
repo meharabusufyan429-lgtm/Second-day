@@ -9,7 +9,7 @@ import LearnNewo from './Components/LearnNewo';
 function App() {
   return (
     <div className="App">
-   <LearnAos/>
+   {/* <LearnAos/> */}
       <LearnClear/>
       <LearnCode/>
       <LearnNew/>
