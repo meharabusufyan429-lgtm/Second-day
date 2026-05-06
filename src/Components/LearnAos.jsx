@@ -51,7 +51,7 @@ const LearnAos = () => {
        
        <div
        data-aos="flip-down"
-         data-aos-duration="1500"
+         data-aos-duration="2000"
         className="row5">
         SIX
        </div>
@@ -62,7 +62,7 @@ const LearnAos = () => {
 
       <div 
       data-aos="zoom-in"
-         data-aos-duration="1500"
+         data-aos-duration="2000"
       className="row6">
         SEVEN
       </div>
